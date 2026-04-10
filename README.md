@@ -38,6 +38,7 @@ My work sits at the intersection of statistical modeling, machine learning, and 
 
 ## 🔗 Links
 
+- 🌐 Portfolio: [madisonmacdonald111.github.io](https://madisonmacdonald111.github.io)
 - 💼 LinkedIn: [linkedin.com/in/madisonmacdonald111](https://www.linkedin.com/in/madisonmacdonald111/)
 ---
 
