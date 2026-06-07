@@ -31,9 +31,9 @@ My work sits at the intersection of statistical modeling, machine learning, and 
 
 ## 🎓 Background
 
-- **MA Statistics** — UC Berkeley (May 2026)
-- **BS Applied Statistics** — Purdue University, 4.0 GPA, top of class
-- Graduate Student Instructor · Outreach Peer Ambassador · 7 years private math & stats tutoring
+- **MA Statistics** — UC Berkeley (May 2026), 3.9 overall GPA, Community Leadership Award 
+- **BS Applied Statistics** — Purdue University, 4.0 major GPA, top of class
+- Graduate Student Instructor · Outreach Peer Ambassador · 7+ years private math & stats tutoring
 
 ---
 
@@ -44,4 +44,4 @@ My work sits at the intersection of statistical modeling, machine learning, and 
 
 ---
 
-*Based in Berkeley, CA · Open to data science, research, and analytics roles*
+*Currently based in Berkeley, CA · Open to data science, research, and analytics roles*
