@@ -17,8 +17,8 @@ My work sits at the intersection of statistical modeling, machine learning, and 
 
 | Project | Description | Tools |
 |---|---|---|
-| [Multimodal Meme & Speech Analysis](https://github.com/madisonmacdonald111/cultural-analytics-project-3) | Analyzed how political and COVID memes assign blame and heroism across visual, textual, and acoustic features — 5,552 memes + 1,081 campaign speeches + debate audio | Python · NLP · librosa · scikit-learn |
-| [LLM vs. Human Text Classification](https://github.com/madisonmacdonald111/cultural-analytics-project-1) | Built classifiers to distinguish LLM-generated from human-written text — F1 = 0.862; deployed on GitHub Pages | Python · BERTopic · TF-IDF |
+| [Multimodal Meme & Speech Analysis](https://github.com/madisonmacdonald111/cultural-analytics-project-3) | Analyzed how political and COVID memes assign blame and heroism across visual, textual, and acoustic features. 5,552 memes + 1,081 campaign speeches + debate audio | Python · NLP · librosa · scikit-learn |
+| [LLM vs. Human Text Classification](https://github.com/madisonmacdonald111/cultural-analytics-project-1) | Built classifiers to distinguish LLM-generated from human-written text. F1 = 0.862; deployed on GitHub Pages | Python · BERTopic · TF-IDF |
 | [Marvel Universe Network Analysis](https://github.com/madisonmacdonald111/cultural-analytics-project-2) | Mapped character co-appearance networks across 6,000+ Marvel comics with community detection and interactive visualization | Python · NetworkX · pyvis · Plotly |
 | [Genetic Algorithm Variable Selection](https://github.com/madisonmacdonald111/genetic-algorithm-variable-selection) | Python package implementing genetic algorithms for feature selection in regression models | Python |
 | [Arctic Cloud Detection](https://github.com/madisonmacdonald111/arctic-cloud-detection) | Compared five classifiers on MISR satellite imagery for cloud vs. non-cloud classification | Python · scikit-learn · LaTeX |
