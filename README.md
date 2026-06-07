@@ -7,9 +7,9 @@ My work sits at the intersection of statistical modeling, machine learning, and 
 ## 🔧 What I work with
 
 **Languages:** Python · R · SQL · SAS · LaTeX · MATLAB · Shell (UNIX)  
-**Libraries:** scikit-learn · pandas · NumPy · Plotly · NetworkX · pyvis · librosa · NLTK · glmnet · sandwich · TensorFlow · PyTorch · BERTopic  
-**Tools:** Jupyter · Git · Conda · Dask · HPC (Bridges2 / SLURM) · Tableau · GitHub Pages  
-**Methods:** Classification · Regression · NLP · Network analysis · Multimodal analysis · Bayesian inference · fMRI encoding models · Ridge/Lasso regularization · Mixed models · Robust standard errors · Topic modeling
+**Libraries:** scikit-learn · pandas · NumPy · Plotly · NetworkX · pyvis · librosa · NLTK · glmnet · sandwich · TensorFlow · PyTorch · BERTopic · Word2Vec · GloVe  
+**Tools:** Jupyter · VS Code · Git · Conda · Dask · HPC (Bridges2 / SLURM) · GitHub Pages
+**Methods:** Classification · Regression · Time series · NLP · Network analysis · Multimodal analysis · Bayesian inference · fMRI encoding models · Ridge/Lasso regularization · Robust standard errors · Topic modeling · Hypothesis testing
 
 ---
 
